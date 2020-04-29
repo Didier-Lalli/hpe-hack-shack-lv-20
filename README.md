@@ -1,4 +1,4 @@
-# Welcome to HPE Discover Virtual Hack Shack
+# Welcome to HPE Discover Virtual Hack Shack Challenges
 
 This repo contains the Jupyter Notebooks used for the Hack Shack Challenges during HPE Discover Virtual Experience.
 
@@ -20,8 +20,22 @@ In this challenge, you’ll learn what Grommet and Grommet Designer are and how 
 
 In this challenge, you’ll leverage the provided HPE OneView PowerShell library to create a PowerShell-coded API-based report that provides a list of relevant items. You’ll make use of a Jupyter notebook, a PowerShell kernel, some documentation, and a good deal of creativity!
 
+# Getting help
 
-Each challenge will have a winner, which we will announce at the end of HPE Discover Virtual Experience 2020.
+Our goal is to get all of you to complete a challenge. So we have put in place a number of mechanism to help you out during your challenge attempt:
+
+## Slack
+
+We have started a Slack channel to ask question and get answers. You first need to register to our Slack work space at https://slack.hpedev.io/, and then join the discussion at https://hpedev.slack.com/archives/C012XL8KZD2
+
+## Challenger Hang-out room
+
+We have also setup a dedicated room for challengers at: 
+There will be Hack Shack members there to help you out with burning questions
+
+# Selecting a winner
+
+Each challenge will have a winner, which we will announce at the end of HPE Discover Virtual Experience 2020 mid August.
 
 Let's hack and have fun!
 
